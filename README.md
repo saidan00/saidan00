@@ -1,5 +1,4 @@
-### Hi there 👋
-## Welcome to Jay's Playzone
+### 🎮 Welcome to Jay's Playzone
 almost nothing here (it'll be updated in the future)
 
 <!--
