@@ -1,5 +1,6 @@
 # 🎮 Welcome to Jay's Playzone
 
+![Cover](https://github.com/saidan00/saidan00/blob/master/cover-780x390.jpg)
 
 ### Back-end
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
